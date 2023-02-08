@@ -41,22 +41,18 @@ To get a local copy up and running follow these simple steps.
  
 ## Authors
 
-👤 **Gzim Asani**
-- Github: [@GzimAsani](https://github.com/GzimAsani)
-- Linkedin: [GzimAsani](https://www.linkedin.com/in/gzim-asani-83390a17a/)
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-👤 **Divyesh Patel**
-
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel/)
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
 
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Div685/Todo-List-JS/issues).
+
 
 
 ## Show your support
